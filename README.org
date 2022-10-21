@@ -1,7 +1,6 @@
 * Gestión de la tarea docente con GitHub
-[[./imagenes/Logotipo_ME_FP_GV_FSE.png]]
 
-Curso de formación para profesores de la familia profesional de Informática y Comunicaciones.
+Curso de formación sobre Git - Curso de Especialización: Puesta en Producción Segura.
 
 ** Presentación
 - [[https://www.youtube.com/watch?v=14H1Ultqxpw&index=1&list=PLQg_Bl-6Gfo9k0KQg5vaaV9r6Hg--nMA7][Presentación]]
