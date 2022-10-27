@@ -98,7 +98,7 @@ GitHub ofrece *dos* mecanismos básicos para la *colaboración* en un determinad
     - Un archivo de licencia de tipo ~MIT~.
  3) Crea un equipo dentro de la organización denominado ~equipo1~.
  4) Da permisos de escritura a ~equipo1~ en el repositorio creado.
- 5) Invítame a formar parte de la organización y a formar parte del equipo ~equipo1~. Mi usuario de GitHub es ~pedroprieto~.
+ 5) Invítame a formar parte de la organización y a formar parte del equipo ~equipo1~. Mi usuario de GitHub es ~profeJG~.
 
 ** Entrega de la tarea
 No hay que subir ningún archivo en la tarea de la plataforma Moodle del Cefire.
