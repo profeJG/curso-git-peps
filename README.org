@@ -20,5 +20,5 @@ Curso de formación sobre Git - Curso de Especialización: Puesta en Producción
 
 ** Créditos y reconocimientos
 
-Este curso es una adaptación para el módulo Puesta en Produción Segura del Curso de Especialización de Ciberseguridad en entornos TI, realizada por *José Gaspar Sánchez García* a partir del curso del CEFIRE *Gestión de la tarea docente con GitHub* elaborado por *[Pedro Prieto Alarcón](https://github.com/pedroprieto/curso-github)*.
+Este curso es una adaptación para el módulo Puesta en Produción Segura del Curso de Especialización de Ciberseguridad en entornos TI, realizada por *José Gaspar Sánchez García* a partir del curso del CEFIRE *Gestión de la tarea docente con GitHub* elaborado por *[[Pedro Prieto Alarcón](https://github.com/pedroprieto/curso-github)]*.
 - *Licencia:* [[./imagenes/cc-by-sa_88x31.png]]
