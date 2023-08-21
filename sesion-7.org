@@ -381,4 +381,4 @@ A continuación se indican algunas estrategias que podéis utilizar para combina
 ** Entrega de la tarea
 Una vez terminadas las tareas envíame una notificación a mi usuario de GitHub a través del *equipo* de la organización creada en la sesión 3. Incluye las *4 capturas* de pantalla pedidas en la notificación.
 
-No hay que subir ningún archivo en la tarea de la plataforma Moodle del Cefire.
+No hay que subir ningún archivo en la tarea de la plataforma Moodle de AULES.

@@ -222,4 +222,4 @@ Realiza una ~pull request~ indicando en el mensaje que has completado la tarea j
      - Un enlace a tu sitio web publicado.
      - Un enlace al sitio de organización publicado que creaste en el apartado 1.
 
- No hay que subir ningún archivo en la tarea de la plataforma Moodle del Cefire.
+ No hay que subir ningún archivo en la tarea de la plataforma Moodle de AULES.

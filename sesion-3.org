@@ -101,4 +101,4 @@ GitHub ofrece *dos* mecanismos básicos para la *colaboración* en un determinad
  5) Invítame a formar parte de la organización y a formar parte del equipo ~equipo1~. Mi usuario de GitHub es ~profeJG~.
 
 ** Entrega de la tarea
-No hay que subir ningún archivo en la tarea de la plataforma Moodle del Cefire.
+No hay que subir ningún archivo en la tarea de la plataforma Moodle de AULES.

@@ -124,4 +124,4 @@ Cuando hayas terminado, incluye un *enlace a la URL de la aplicación desplegada
 ** Entrega de la tarea
 Una vez terminada la tarea envíame una notificación a mi usuario de GitHub a través del *equipo* de la organización creada en la sesión 3. Incluye un *enlace al repositorio* y un *enlace a la URL de la aplicación desplegada* en la notificación. 
 
-No hay que subir ningún archivo en la tarea de la plataforma Moodle del Cefire.
+No hay que subir ningún archivo en la tarea de la plataforma Moodle de AULES.

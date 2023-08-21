@@ -208,4 +208,4 @@ A continuación trabajamos en el bug, hacemos cambios y al terminar ejecutamos ~
       22) Haz una captura de pantalla que muestre el histórico de cambios del repositorio.
 
 *** Entrega de la tarea
-    Guarda el fichero con las capturas en formato *PDF* y nómbralo según el patrón ~APELLIDOS_NOMBRE_sesion1.pdf~. La entrega del fichero se realizará a través de la plataforma Moodle del Cefire.
+    Guarda el fichero con las capturas en formato *PDF* y nómbralo según el patrón ~APELLIDOS_NOMBRE_sesion1.pdf~. La entrega del fichero se realizará a través de la plataforma Moodle de AULES.
