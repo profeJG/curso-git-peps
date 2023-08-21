@@ -1,3 +1,4 @@
+[[./imagenes/Logotipo_ME_FP_GV_FSE.png]]
 * Gestión de la tarea docente con GitHub
 
 Curso de formación sobre Git - Curso de Especialización: Puesta en Producción Segura.
